@@ -13,7 +13,7 @@ SKUA2OBJ.exe <SKUA-GOCAD surface file> <output OBJ file> <optional: shift (forma
 On macOS/Linux you can run the application using the mono framework:
 
 ```
-monoSKUA2OBJ.exe <SKUA-GOCAD surface file> <output OBJ file> <optional: shift (format: X/Y/Z)>
+mono SKUA2OBJ.exe <SKUA-GOCAD surface file> <output OBJ file> <optional: shift (format: X/Y/Z)>
 ```
 
 Hence SKUA-GOCAD is desinged for the creation of three dimensional underground models, a shift to the coordinate center migth be required to display the meshes in other software, e.g. Blender 3D.
