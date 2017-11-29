@@ -152,5 +152,9 @@ Global
 		$27.IncludeInstanceMembers = True
 		$27.IncludeStaticEntities = True
 		$0.VersionControlPolicy = $29
+		$29.CommitMessageStyle = $30
+		$30.LastFilePostfix = "@:\n  "
+		$30.IncludeDirectoryPaths = True
+		outputpath = bin
 	EndGlobalSection
 EndGlobal

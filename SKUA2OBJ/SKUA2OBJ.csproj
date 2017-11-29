@@ -2,18 +2,23 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>net462</TargetFramework>
+    <TargetFramework>net47</TargetFramework>
   </PropertyGroup>
 
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'all|AnyCPU' ">
     <IntermediateOutputPath>obj\all</IntermediateOutputPath>
     <DebugType></DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>bin\all</OutputPath>
+    <OutputPath>bin\</OutputPath>
     <DefineConstants></DefineConstants>
     <NoWarn></NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType></DebugType>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants></DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
   </PropertyGroup>
 </Project>

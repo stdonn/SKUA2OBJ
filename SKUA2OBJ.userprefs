@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{9B843B4B-48AC-4496-A432-8C9B62826CFC}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="SKUA2OBJ/SKUA2OBJ.cs">
     <Files>
-      <File FileName="SKUA2OBJ/SKUA2OBJ.cs" Line="23" Column="82" />
-      <File FileName="SKUA2OBJ/SKUA2OBJConversion.cs" Line="152" Column="7" />
+      <File FileName="SKUA2OBJ/SKUA2OBJ.cs" Line="1" Column="1" />
+      <File FileName="SKUA2OBJ/SKUA2OBJConversion.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
