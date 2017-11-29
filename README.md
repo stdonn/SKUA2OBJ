@@ -26,7 +26,8 @@ SKUA2OBJ.exe surfaces.ts surfaces.obj -4412345/-5612345/-123.4
 ## Download the latest Release
 
 You can download the latest release of [SKUA2OBJ here](https://github.com/stdonn/SKUA2OBJ/releases/latest)
-!!!ATTENTION: All versions are still pre-releases and are not build for working in production environments
+
+**!!!ATTENTION!!!** All versions are still pre-releases and are not build for working in production environments
 
 ## TODO
 
@@ -38,7 +39,7 @@ Currently only the mesh is converted. In the future also the style of the SKUA-G
 
 ## Authors
 
-* **Stephan Donndorf** - *Initial work* - [stdonn](https://github.com/stdonn)
+* **Stephan Donndorf** - [stdonn](https://github.com/stdonn)
 
 ## License
 
