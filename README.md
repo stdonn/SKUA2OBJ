@@ -23,6 +23,10 @@ This shift can be commited as the last parameter.
 SKUA2OBJ.exe surfaces.ts surfaces.obj -4412345/-5612345/-123.4
 ```
 
+## TODO
+
+Currently only the mesh is converted. In the future also the style of the SKUA-GOCAD surfaces can be converted to an object material (*.mat)
+
 ## Built With
 
 * [VisualStudio](http://www.visualstudio.com/) - C# IDE
