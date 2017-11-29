@@ -3,6 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SKUA2OBJ", "SKUA2OBJ\SKUA2OBJ.csproj", "{9B843B4B-48AC-4496-A432-8C9B62826CFC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5CAD82B9-E287-4C4B-A49B-24A22789552D}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		all|Any CPU = all|Any CPU
@@ -155,6 +161,7 @@ Global
 		$29.CommitMessageStyle = $30
 		$30.LastFilePostfix = "@:\n  "
 		$30.IncludeDirectoryPaths = True
+		$30.LineAlign = 0
 		outputpath = bin
 	EndGlobalSection
 EndGlobal
